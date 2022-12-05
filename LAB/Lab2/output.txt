@@ -1,0 +1,20 @@
+<ID>
+199822007 C.J. Cregg 
+199922004 Olivia Dunham 
+199922006 Josh Lyman 
+199922007 Toby Ziegler 
+200722013 Leslie Knope 
+200822013 Sam Seaborn 
+200922015 Walter Bishop 
+
+<LAST NAME>
+Bishop 
+Cregg 
+Dunham 
+Knope 
+Lyman 
+Seaborn 
+Ziegler 
+
+<THE NUMBER OF UNIQUE MAJOR>
+6
